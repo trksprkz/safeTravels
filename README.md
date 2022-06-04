@@ -1,7 +1,5 @@
-# travelSafe (YelpCamp MERN APP)
+# travelSafe
 
-![Image 1](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image1.png)  
-![Image 2](https://raw.githubusercontent.com/himanshup/yelp-camp/master/screenshots/image2.png)  
 
 travelSafe or YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account.
 
